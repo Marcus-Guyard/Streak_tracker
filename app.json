@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "streak_tracker",
+    "slug": "streak_tracker",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "streak_tracker"
+}
