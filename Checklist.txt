@@ -1,0 +1,25 @@
+Checklist for streak tracker app:
+
+(done)- Get the date 
+
+(Done)- Show the date on the screen 
+
+(done)- checkboxes for everyday tasks. Like a to do app. 
+
+(done)- add tasks
+
+(done))- remove tasks 
+
+(done)- when current time = 00.00.00 reset all boxes to uncleared 
+
+(done))- when current time = 00.00.00 reset failed "streaks" to 0 
+
+(done)- Show the "streak" under each task. (Number of days the box has been checked). 
+
+(done)- Once checked off a task, streak count + 1 
+
+(__)- Phone alert notifications telling the user to do the tasks twice a day. 
+
+(done)- fuctioning realtime clock 
+
+(__) - Publish the app?
